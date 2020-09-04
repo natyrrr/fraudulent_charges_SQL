@@ -7,7 +7,8 @@ I will apply SQL skills to analyze historical credit card transactions and consu
 
 Data Modeling:
 Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
-(![Test Image 1](QuickDBD-Frudulent Charges.png))
+
+(![Test Image 1](https://github.com/natyrrr/SQL/blob/master/QuickDBD-Fraudulent%20Charges.png))
 
 Data Engineering: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
 
